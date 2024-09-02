@@ -1,2 +1,2 @@
-# idggalura
-Imersão-DEV Google Gemini - Alura
+# Imersão-dev Google Gemini | Alura
+Treinamento sugerido pela empresa como plano de PDI
